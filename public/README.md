@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YourOrg/ai-in-education&type=Date)](https://star-history.com/aiineducation/.github&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=aiineducation/.github&type=Date)](https://star-history.com/aiineducation/.github&Date)
